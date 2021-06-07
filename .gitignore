@@ -1,0 +1,12 @@
+Git実験/.vs
+Git実験/*.csproj
+Git実験/Library
+Git実験/Temp/
+Git実験/Library/
+Git実験/Packages/
+Git実験/obj/
+Git実験/*.unitypackage
+Git実験/*.sln
+Git実験/UnityPackageManager
+Git実験/*.collabignore
+Git実験/AssetBundles/
